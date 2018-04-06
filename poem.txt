@@ -12,3 +12,4 @@ These are the colors of the rainbow.
 And the Unicorn.
 Pony
 Fixed the bug #3
+Some more message
